@@ -11,5 +11,8 @@ def mul(x,y):
 	return x*y
 
 #function to divide two numbers
-def div():
-	pass
+def div(a,b):
+	return a/b
+
+
+
