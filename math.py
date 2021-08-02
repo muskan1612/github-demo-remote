@@ -12,6 +12,8 @@ def mul(x,y):
 
 #function to divide two numbers
 def div(a,b):
+	if(b==0):
+		print("b cannot be zero")
 	return a/b
 
 
