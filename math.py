@@ -3,8 +3,8 @@ def add(x,y):
 	return x+y
 
 #function to subtract two numbers
-def sub():
-	pass
+def sub(a,b):
+	return a-b
 
 #function to multiply two numbers
 def mul(x,y):
